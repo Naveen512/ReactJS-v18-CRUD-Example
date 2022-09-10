@@ -1,0 +1,25 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Apples",
+      "quantity": 5,
+      "price": 1000,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ON3eNlQugqeti8PEca6iDJcqtjB9HX7c3A&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "name": "Mangoes",
+      "quantity": 2,
+      "price": 650,
+      "imageUrl": "https://ichef.bbci.co.uk/images/ic/1200x675/p06hk0h6.jpg"
+    },
+    {
+      "name": "Grapes",
+      "quantity": 6,
+      "price": 100,
+      "imageUrl": "https://img.freepik.com/premium-vector/isolated-dark-grape-with-green-leaf_317810-1956.jpg?w=2000",
+      "id": 3
+    }
+  ]
+}
